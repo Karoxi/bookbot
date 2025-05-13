@@ -1,3 +1,2 @@
 # bookbot
-
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Bookbot is a python program that analyzes the contents of books by counting the number of words and characters.
